@@ -31,5 +31,21 @@ person1.maritalStatus = 'single'
 person1.occupation = 'fullStackDeveloper'
 
 person1.getDetails();
+//kamal
+// 23
+// Bangalore,Karnataka
+// male
+// 01/12/2000
+// single
+// fullStackDeveloper
 
 console.log(person1)
+// Person {
+//   name: 'kamal',
+//   age: '23',
+//   address: 'Bangalore,Karnataka',
+//   sex: 'male',
+//   dob: '01/12/2000',
+//   maritalStatus: 'single',
+//   occupation: 'fullStackDeveloper'
+// }
