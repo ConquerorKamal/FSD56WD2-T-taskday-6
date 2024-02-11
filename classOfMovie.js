@@ -27,13 +27,21 @@ movieD = new Movie("vikram","rajKamal","PG")
 
 let movies = []
 movies.push(movieA,movieB,movieC,movieD)
-console.log(movies)
-
 
 movieE = new Movie("best","bestStudio")
 console.log(movieE.getPG(movies))
+// [
+//   Movie { title: 'avengers', studio: 'marvel', rating: 'PG' },
+//   Movie { title: 'vikram', studio: 'rajKamal', rating: 'PG' }
+// ]
 
 
 
 movieF = new Movie("Casino Royale","Eon Productions","PG13")
 console.log(movieF)
+// Movie {
+//   title: 'Casino Royale',
+//   studio: 'Eon Productions',
+//   rating: 'PG13'
+// }
+
