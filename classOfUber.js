@@ -46,6 +46,6 @@ uber2 = new Uber();
 uber3 = new Uber();
 
 
-console.log(`uber1 price => ${uber1.getPrice(56)}`)
-console.log(`uber2 price => ${uber2.getPrice(50)}`)
-console.log(`uber3 price => ${uber3.getPrice(101)}`)
+console.log(`uber1 price => ${uber1.getPrice(56)}`)                      //uber1 price => 3100
+console.log(`uber2 price => ${uber2.getPrice(50)}`)                      //uber2 price => 2100
+console.log(`uber3 price => ${uber3.getPrice(101)}`)                     //uber3 price => 5100
