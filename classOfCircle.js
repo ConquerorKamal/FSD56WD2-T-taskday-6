@@ -29,5 +29,7 @@ class Circle{
 }
 let circle1 = new Circle(1.0,"red")
 
-circle1.getCircum()
-
+circle1.getCircum()                                   
+//6.283185307179586
+circle1.getArea()
+// 3.141592653589793
